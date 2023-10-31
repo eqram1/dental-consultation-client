@@ -16,7 +16,7 @@ const Banner = () => {
                 <div>
                     <h1 className="text-5xl font-bold">Dental services news!</h1>
                     <p className="py-6">Maintain serial & other administrative rules please.</p>
-                    <PrimaryButton></PrimaryButton>
+                    <PrimaryButton>Get started</PrimaryButton>
                 </div>
             </div>
         </div>
